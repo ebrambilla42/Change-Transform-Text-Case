@@ -4,7 +4,7 @@ Changes the case of text selected, provided, or on the clipboard to UPPERCASE, l
 
 [Download the workflow](https://github.com/gillibrand/alfred-change-case/blob/master/Change%20Case.alfredworkflow).
 
-![Screenshot](changecase.jpg)
+![Screenshot](changecase.png)
 
 ## Usage
 
