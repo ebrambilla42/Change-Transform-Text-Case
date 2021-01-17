@@ -1,4 +1,4 @@
-# Change Case — Workflow for Alfred
+# Change Case — Workflow for Alfred [Modified ⛔️]
 
 Changes the case of text selected, provided, or on the clipboard to UPPERCASE, lowercase, Title Case, CamelCase, kebab-case, or snake_case.
 
